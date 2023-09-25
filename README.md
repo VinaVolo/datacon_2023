@@ -1,13 +1,12 @@
-# datacon_turtles
+# Antibiotic resistance and metal nanoparticle therapy
 
-## File documentation
+## Problem description
 
-
-Antibiotic resistance is a serious problem in modern medicine. Diseases caused by resistant bacteria are difficult to treat, and sometimes even untreatable. To fight such bacteria, biologists and physicians are constantly looking for new approaches, and one of the options is metal nanoparticle therapy. Metal nanoparticles can both affect bacteria independently (by damaging bacterial membranes and generating radical particles) and enhance the effect of antibiotics.
+Resistance to antibiotics is a serious problem of modern medicine. Diseases that are caused by resistant bacteria are difficult to treat, and sometimes not even treated at all. To fight such bacteria, biologists and physicians are constantly looking for new approaches, and one of the options is metal nanoparticle therapy. Metal nanoparticles can both affect bacteria independently (by damaging bacterial membranes and generating radical particles) and enhance the effect of antibiotics.
 
 The task is to build a predictive regression model to predict the ZOI - zone of inhibition of bacterial growth - for drug-nanoparticle complexes.
 
-
+## File documentation
 
 notebook_1.ipynb - working with dataset, adding features
 
